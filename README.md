@@ -16,3 +16,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yalcinkose&show_icons=true&theme=onedark)<br>
+
+### Hi there 👋
+
+- 🏆 I love technology and like helping others with any knowledge that I have<br> 
+- ✨ Motivated to learn, grow and excel in IT industry.
+- ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
+- Attention to detail and excellent organizational skills. 
+- ✨ Believe in the importance of learning new things every day. 
+- A lifelong learner. 
+- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions
+- You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
+- 📫 How to reach out me: yalcin.kose57@gmail.com
+
