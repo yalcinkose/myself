@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ✨ Motivated to learn, grow and excel in IT industry.
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work, 
 - Attention to detail and excellent organizational skills. 
-- ✨ Believe in the importance of learning new things every day. 
+- ✨ Aware of the importance of learning new things every day. 
 - A lifelong learner. 
 - ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions
 - You can show some   ❤️    &nbsp; by starring some of the repositories 😄 
