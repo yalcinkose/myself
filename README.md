@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-- 🏆 I love technology and like helping others with any knowledge that I have<br> 
+- 🏆 I love IT world and like helping others with any knowledge that I have<br> 
 - ✨ Motivated to learn, grow and excel in IT industry especially DevOps & AWS
 - ✨ Enthusiastic DevOps eager to contribute to team success through hard work 
-- Attention to detail and excellent organizational skills. 
+- ⚡ Attention to detail and excellent organizational skills. 
 - ✨ Aware of the importance of learning new things every day. 
-- A lifelong learner. 
-- ✨ Please Feel Free to Reach Out if You Have Any Questions or Suggestions
+- ⚡ A lifelong learner. 
+- 💬 Please Feel Free to Reach Out if You Have Any Questions or Suggestions
 - 📫 How to reach out me: yalcin.kose57@gmail.com
 
